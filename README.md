@@ -8,10 +8,12 @@ myprofileApp
 
 ## Comment acceder au site ? ##
 
-Via ce lien -> [myprofileApp](https://juliamyprofileapp.herokuapp.com/)
+Via ce lien -> [myprofileApp](https://juliaprofileapp.herokuapp.com/)
 
-Ce sera en local pour aujourd'hui, mon lien Heroku n'a pas su gérer les assets.
+Ce sera en local pour aujourd'hui, mon Heroku n'a pas su gérer les assets.
 
 -> Clone mon repo
+
 -> Bundle install
+
 -> rails server 
