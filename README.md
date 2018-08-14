@@ -1,24 +1,11 @@
-# README
+|| THP PARIS SESSION 5 ||
+|| SEM-07 - HTML CSS   ||
+|| PROJET - My Profile ||
+|| Créateur : @Julia   ||
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+myprofileApp
+============
 
-Things you may want to cover:
+## Comment acceder à l'application ? ##
 
-* Ruby version
-
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Via ce lien -> [myprofileApp](https://appsecret.herokuapp.com/)

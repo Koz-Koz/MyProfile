@@ -1,0 +1,22 @@
+ul {
+		list-style-type:none   /* enlever les puces */
+		margin : 0px;
+		padding: 0px;
+}
+
+li { 
+        margin-left:2px;    /* Chaque item doit être séparé de son voisin : 2px */
+        float:left;
+ }
+
+ul li a {
+			 display:block;  /*donne une largeur fixe et unique à chaque item*/
+			 float:left;   
+			 width:100px;                /*taille du bouton*/
+			 background-color:#78BBAD;
+			 color:black;
+			 text-decoration:none;
+			 text-align:center;
+			 padding:5px;
+}
+

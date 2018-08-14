@@ -1,0 +1,15 @@
+.btn-blue {
+	color: #262DF6;            /*couleur du texte*/
+	background-color: #0EF6F6; /*couleur du fond*/
+	width:150px;               /*largeur-hauteur*/ 
+    line-height:50px;
+    text-align:center;         /*position du texte*/
+    vertical-align:middle;    
+    text-decoration:none;
+    padding: 0,2px;         /*espacement intérieur*/
+    border-radius: 50% 20% / 10% 40%; /*style bordures*/
+}
+
+.btn-blue a:hover { 	/*effet de hover*/
+	color: #4862F6 ;  
+}
